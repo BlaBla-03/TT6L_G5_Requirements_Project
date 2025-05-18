@@ -1,93 +1,116 @@
-🏥 TT6L_G5 Campus Wellness Portal
-📌 Project Overview
-Project Title: Campus Wellness Portal with Medical System and Fitness Center Integration
-Tutorial Section: TT6L
-Group Name: TT6L_G5
-Course: CSE6224 Software Requirements Engineering
-Trimester: 2510
-Due Date: 23rd May 2025, Week 9 (11:59 PM)
+<h1>🏥 TT6L_G5 Campus Wellness Portal</h1>
 
-The Campus Wellness Portal is a university-focused system that helps students manage their health and fitness journey by integrating the university’s health center appointment system and recreation facility software. It enables:
+<h2>📌 Project Overview</h2>
+<p>
+  <strong>Project Title:</strong> Campus Wellness Portal with Medical System and Fitness Center Integration<br>
+  <strong>Tutorial Section:</strong> TT6L<br>
+  <strong>Group Name:</strong> TT6L_G5<br>
+  <strong>Course:</strong> CSE6224 Software Requirements Engineering<br>
+  <strong>Trimester:</strong> 2510<br>
+  <strong>Due Date:</strong> 23rd May 2025, Week 9 (11:59 PM)
+</p>
 
-Booking health appointments
+<p>
+  The <strong>Campus Wellness Portal</strong> is a university-focused system that helps students manage their health and fitness journey by integrating the university’s health center appointment system and recreation facility software. It enables:
+</p>
+<ul>
+  <li>Booking health appointments</li>
+  <li>Registering for fitness classes</li>
+  <li>Tracking wellness goals</li>
+  <li>Receiving personalized health content</li>
+</ul>
 
-Registering for fitness classes
+<h2>🎯 Project Vision, Scope, and Goals</h2>
 
-Tracking wellness goals
+<h3>Vision</h3>
+<p>
+  To create a holistic wellness management platform that empowers students to proactively manage their physical and mental well-being within the campus environment.
+</p>
 
-Receiving personalized health content
+<h3>Scope</h3>
+<ul>
+  <li><strong>Appointment Booking:</strong> Integration with university medical systems for easy scheduling.</li>
+  <li><strong>Fitness Class Enrollment:</strong> Interface with fitness center management tools.</li>
+  <li><strong>Health Goal Tracking:</strong> Support for personal wellness goals and achievements.</li>
+  <li><strong>Resource Center:</strong> Provide access to tailored wellness content, tips, and reminders.</li>
+</ul>
 
-🎯 Project Vision, Scope, and Goals
-Vision
-To create a holistic wellness management platform that empowers students to proactively manage their physical and mental well-being within the campus environment.
+<h3>Goals</h3>
+<ul>
+  <li>Improve student access to healthcare and fitness facilities.</li>
+  <li>Encourage proactive wellness habits among university students.</li>
+  <li>Streamline communication between students and wellness service providers.</li>
+</ul>
 
-Scope
-Appointment Booking: Integration with university medical systems for easy scheduling.
+<h2>🧩 Project Structure</h2>
+<p>This repository includes the following documents:</p>
+<table border="1" cellpadding="8" cellspacing="0">
+  <tr>
+    <th>File</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>TT6L_GX_ProjectPreliminary.docx</td>
+    <td>Vision, scope, goals, and discussion notes</td>
+  </tr>
+  <tr>
+    <td>TT6L_GX_ContextObjects.docx</td>
+    <td>Identified context objects and requirement sources</td>
+  </tr>
+  <tr>
+    <td>TT6L_GX_ElicitationPlan_Kano.docx</td>
+    <td>Requirements elicitation plan using the Kano model</td>
+  </tr>
+  <tr>
+    <td>TT6L_GX_ElicitationExecution.docx</td>
+    <td>Documentation and proofs of elicitation sessions</td>
+  </tr>
+  <tr>
+    <td>TT6L_GX_SRS.docx</td>
+    <td>Software Requirements Specification (ISO/IEC/IEEE 29148:2018 compliant)</td>
+  </tr>
+</table>
+<p><em>💡 All documents are stored and collaboratively edited via our Microsoft Teams and GitHub repository.</em></p>
 
-Fitness Class Enrollment: Interface with fitness center management tools.
+<h2>🧠 Methodology</h2>
+<p>We applied the <strong>Kano Model</strong> to categorize our requirements into:</p>
+<ul>
+  <li>Dissatisfiers (Basic Needs)</li>
+  <li>Satisfiers (Performance Needs)</li>
+  <li>Delighters (Exciters)</li>
+</ul>
 
-Health Goal Tracking: Support for personal wellness goals and achievements.
+<p>Techniques used:</p>
+<ul>
+  <li>Interviews</li>
+  <li>Online surveys</li>
+  <li>Brainstorming sessions</li>
+  <li>Use-case analysis</li>
+</ul>
 
-Resource Center: Provide access to tailored wellness content, tips, and reminders.
+<h2>🔗 Tools and Platforms</h2>
+<ul>
+  <li>Microsoft Teams (for communication)</li>
+  <li>GitHub (for version control and collaboration)</li>
+  <li>Microsoft Word (for documentation)</li>
+</ul>
 
-Goals
-Improve student access to healthcare and fitness facilities.
+<h2>👥 Team Roles</h2>
+<ul>
+  <li><strong>Group Leader:</strong> Ng Jia Hong</li>
+  <li><strong>Team Members:</strong>
+    <ul>
+      <li>Lee Ken Yu</li>
+      <li>Danish Haqiz</li>
+    </ul>
+  </li>
+</ul>
 
-Encourage proactive wellness habits among university students.
-
-Streamline communication between students and wellness service providers.
-
-🧩 Project Structure
-This repository includes the following documents:
-
-File	Description
-TT6L_GX_ProjectPreliminary.docx	Vision, scope, goals, and discussion notes
-TT6L_GX_ContextObjects.docx	Identified context objects and requirement sources
-TT6L_GX_ElicitationPlan_Kano.docx	Requirements elicitation plan using the Kano model
-TT6L_GX_ElicitationExecution.docx	Documentation and proofs of elicitation sessions
-TT6L_GX_SRS.docx	Software Requirements Specification (ISO/IEC/IEEE 29148:2018 compliant)
-
-💡 All documents are stored and collaboratively edited via our Microsoft Teams and GitHub repository.
-
-🧠 Methodology
-We applied the Kano Model to categorize our requirements into:
-
-Dissatisfiers (Basic Needs)
-
-Satisfiers (Performance Needs)
-
-Delighters (Exciters)
-
-Techniques used:
-
-Interviews
-
-Online surveys
-
-Brainstorming sessions
-
-Use-case analysis
-
-🔗 Tools and Platforms
-Microsoft Teams (for communication)
-
-GitHub (for version control and collaboration)
-
-Microsoft Word (for documentation)
-
-👥 Team Roles
-Group Leader: Ng Jia Hong
-
-Team Members: Lee Ken Yu
-                           Danish Haqiz
-
-⚖ Rubric Alignment
-Our documentation ensures:
-
-Clear vision and scope
-
-Identification of all relevant context objects and requirement sources
-
-Comprehensive elicitation and SRS aligned to IEEE standards
-
-Categorized, consistent, and unambiguous requirements
+<h2>⚖️ Rubric Alignment</h2>
+<p>Our documentation ensures:</p>
+<ul>
+  <li>Clear vision and scope</li>
+  <li>Identification of all relevant context objects and requirement sources</li>
+  <li>Comprehensive elicitation and SRS aligned to IEEE standards</li>
+  <li>Categorized, consistent, and unambiguous requirements</li>
+</ul>
