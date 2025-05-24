@@ -101,7 +101,7 @@
   <li><strong>Team Members:</strong>
     <ul>
       <li>Lee Ken Yu</li>
-      <li>Danish Haqiz</li>
+      <li>Danish Haziq</li>
     </ul>
   </li>
 </ul>
