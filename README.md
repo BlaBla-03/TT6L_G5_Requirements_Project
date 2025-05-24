@@ -7,7 +7,7 @@
   <strong>Group Name:</strong> TT6L_G5<br>
   <strong>Course:</strong> CSE6224 Software Requirements Engineering<br>
   <strong>Trimester:</strong> 2510<br>
-  <strong>Due Date:</strong> 23rd May 2025, Week 9 (11:59 PM)
+  <strong>Due Date:</strong> 25th May 2025, Week 9 (11:59 PM)
 </p>
 
 <p>
