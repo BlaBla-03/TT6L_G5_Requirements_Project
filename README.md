@@ -50,23 +50,23 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>TT6L_GX_ProjectPreliminary.docx</td>
+    <td>TT6L_G5_ProjectPreliminary.docx</td>
     <td>Vision, scope, goals, and discussion notes</td>
   </tr>
   <tr>
-    <td>TT6L_GX_ContextObjects.docx</td>
+    <td>TT6L_G5_ContextObjects.docx</td>
     <td>Identified context objects and requirement sources</td>
   </tr>
   <tr>
-    <td>TT6L_GX_ElicitationPlan_Kano.docx</td>
+    <td>TT6L_G5_ElicitationPlan_Kano.docx</td>
     <td>Requirements elicitation plan using the Kano model</td>
   </tr>
   <tr>
-    <td>TT6L_GX_ElicitationExecution.docx</td>
+    <td>TT6L_G5_ElicitationExecution.docx</td>
     <td>Documentation and proofs of elicitation sessions</td>
   </tr>
   <tr>
-    <td>TT6L_GX_SRS.docx</td>
+    <td>TT6L_G5_SRS.docx</td>
     <td>Software Requirements Specification (ISO/IEC/IEEE 29148:2018 compliant)</td>
   </tr>
 </table>
